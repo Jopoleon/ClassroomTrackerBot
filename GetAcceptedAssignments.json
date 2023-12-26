@@ -1,0 +1,394 @@
+[
+  {
+    "id": 13247648,
+    "submitted": false,
+    "passing": false,
+    "commit_count": 0,
+    "grade": null,
+    "students": [
+      {
+        "id": 2171995,
+        "login": "vechnonetot",
+        "name": "Dmitry Nikonov",
+        "avatar_url": "https://avatars.githubusercontent.com/u/98653245?v=4",
+        "html_url": "https://github.com/vechnonetot"
+      }
+    ],
+    "assignment": {
+      "id": 533251,
+      "public_repo": true,
+      "title": "ДЗ урок 14 - sync package ",
+      "type": "individual",
+      "invite_link": "https://classroom.github.com/a/7jRmfQQL",
+      "invitations_enabled": true,
+      "slug": "14-sync-package",
+      "students_are_repo_admins": true,
+      "feedback_pull_requests_enabled": true,
+      "max_teams": null,
+      "max_members": null,
+      "editor": null,
+      "accepted": 8,
+      "submissions": 0,
+      "passing": 0,
+      "language": null,
+      "deadline": null,
+      "classroom": {
+        "id": 194072,
+        "name": "Egor-Golang-TSM-Course-classroom-1",
+        "archived": false,
+        "url": "https://classroom.github.com/classrooms/149122461-egor-golang-tsm-course-classroom-1"
+      }
+    },
+    "repository": {
+      "id": 732078856,
+      "full_name": "Egor-Golang-TSM-Course/14-sync-package-vechnonetot",
+      "html_url": "https://github.com/Egor-Golang-TSM-Course/14-sync-package-vechnonetot",
+      "node_id": "R_kgDOK6KjCA",
+      "private": false,
+      "default_branch": "main"
+    }
+  },
+  {
+    "id": 13247692,
+    "submitted": false,
+    "passing": false,
+    "commit_count": 3,
+    "grade": null,
+    "students": [
+      {
+        "id": 2157036,
+        "login": "Dellmort",
+        "name": "Dellmorty",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48087926?v=4",
+        "html_url": "https://github.com/Dellmort"
+      }
+    ],
+    "assignment": {
+      "id": 533251,
+      "public_repo": true,
+      "title": "ДЗ урок 14 - sync package ",
+      "type": "individual",
+      "invite_link": "https://classroom.github.com/a/7jRmfQQL",
+      "invitations_enabled": true,
+      "slug": "14-sync-package",
+      "students_are_repo_admins": true,
+      "feedback_pull_requests_enabled": true,
+      "max_teams": null,
+      "max_members": null,
+      "editor": null,
+      "accepted": 8,
+      "submissions": 0,
+      "passing": 0,
+      "language": null,
+      "deadline": null,
+      "classroom": {
+        "id": 194072,
+        "name": "Egor-Golang-TSM-Course-classroom-1",
+        "archived": false,
+        "url": "https://classroom.github.com/classrooms/149122461-egor-golang-tsm-course-classroom-1"
+      }
+    },
+    "repository": {
+      "id": 732082415,
+      "full_name": "Egor-Golang-TSM-Course/14-sync-package-Dellmort",
+      "html_url": "https://github.com/Egor-Golang-TSM-Course/14-sync-package-Dellmort",
+      "node_id": "R_kgDOK6Kw7w",
+      "private": false,
+      "default_branch": "main"
+    }
+  },
+  {
+    "id": 13249331,
+    "submitted": false,
+    "passing": false,
+    "commit_count": 3,
+    "grade": null,
+    "students": [
+      {
+        "id": 2157018,
+        "login": "Ppolyak",
+        "name": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/43240694?v=4",
+        "html_url": "https://github.com/Ppolyak"
+      }
+    ],
+    "assignment": {
+      "id": 533251,
+      "public_repo": true,
+      "title": "ДЗ урок 14 - sync package ",
+      "type": "individual",
+      "invite_link": "https://classroom.github.com/a/7jRmfQQL",
+      "invitations_enabled": true,
+      "slug": "14-sync-package",
+      "students_are_repo_admins": true,
+      "feedback_pull_requests_enabled": true,
+      "max_teams": null,
+      "max_members": null,
+      "editor": null,
+      "accepted": 8,
+      "submissions": 0,
+      "passing": 0,
+      "language": null,
+      "deadline": null,
+      "classroom": {
+        "id": 194072,
+        "name": "Egor-Golang-TSM-Course-classroom-1",
+        "archived": false,
+        "url": "https://classroom.github.com/classrooms/149122461-egor-golang-tsm-course-classroom-1"
+      }
+    },
+    "repository": {
+      "id": 732192417,
+      "full_name": "Egor-Golang-TSM-Course/14-sync-package-Ppolyak",
+      "html_url": "https://github.com/Egor-Golang-TSM-Course/14-sync-package-Ppolyak",
+      "node_id": "R_kgDOK6ReoQ",
+      "private": false,
+      "default_branch": "main"
+    }
+  },
+  {
+    "id": 13254051,
+    "submitted": false,
+    "passing": false,
+    "commit_count": 1,
+    "grade": null,
+    "students": [
+      {
+        "id": 2172529,
+        "login": "kodzimo",
+        "name": "Dzmitry Pukhau",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102469519?v=4",
+        "html_url": "https://github.com/kodzimo"
+      }
+    ],
+    "assignment": {
+      "id": 533251,
+      "public_repo": true,
+      "title": "ДЗ урок 14 - sync package ",
+      "type": "individual",
+      "invite_link": "https://classroom.github.com/a/7jRmfQQL",
+      "invitations_enabled": true,
+      "slug": "14-sync-package",
+      "students_are_repo_admins": true,
+      "feedback_pull_requests_enabled": true,
+      "max_teams": null,
+      "max_members": null,
+      "editor": null,
+      "accepted": 8,
+      "submissions": 0,
+      "passing": 0,
+      "language": null,
+      "deadline": null,
+      "classroom": {
+        "id": 194072,
+        "name": "Egor-Golang-TSM-Course-classroom-1",
+        "archived": false,
+        "url": "https://classroom.github.com/classrooms/149122461-egor-golang-tsm-course-classroom-1"
+      }
+    },
+    "repository": {
+      "id": 732680389,
+      "full_name": "Egor-Golang-TSM-Course/14-sync-package-kodzimo",
+      "html_url": "https://github.com/Egor-Golang-TSM-Course/14-sync-package-kodzimo",
+      "node_id": "R_kgDOK6vQxQ",
+      "private": false,
+      "default_branch": "main"
+    }
+  },
+  {
+    "id": 13257362,
+    "submitted": false,
+    "passing": false,
+    "commit_count": 6,
+    "grade": null,
+    "students": [
+      {
+        "id": 2172595,
+        "login": "daniilcdev",
+        "name": "Daniil Cherepkov",
+        "avatar_url": "https://avatars.githubusercontent.com/u/132902559?v=4",
+        "html_url": "https://github.com/daniilcdev"
+      }
+    ],
+    "assignment": {
+      "id": 533251,
+      "public_repo": true,
+      "title": "ДЗ урок 14 - sync package ",
+      "type": "individual",
+      "invite_link": "https://classroom.github.com/a/7jRmfQQL",
+      "invitations_enabled": true,
+      "slug": "14-sync-package",
+      "students_are_repo_admins": true,
+      "feedback_pull_requests_enabled": true,
+      "max_teams": null,
+      "max_members": null,
+      "editor": null,
+      "accepted": 8,
+      "submissions": 0,
+      "passing": 0,
+      "language": null,
+      "deadline": null,
+      "classroom": {
+        "id": 194072,
+        "name": "Egor-Golang-TSM-Course-classroom-1",
+        "archived": false,
+        "url": "https://classroom.github.com/classrooms/149122461-egor-golang-tsm-course-classroom-1"
+      }
+    },
+    "repository": {
+      "id": 732913214,
+      "full_name": "Egor-Golang-TSM-Course/14-sync-package-daniilcdev",
+      "html_url": "https://github.com/Egor-Golang-TSM-Course/14-sync-package-daniilcdev",
+      "node_id": "R_kgDOK69ePg",
+      "private": false,
+      "default_branch": "main"
+    }
+  },
+  {
+    "id": 13257805,
+    "submitted": false,
+    "passing": false,
+    "commit_count": 2,
+    "grade": null,
+    "students": [
+      {
+        "id": 2172868,
+        "login": "IvanBrunevskiy",
+        "name": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/73433088?v=4",
+        "html_url": "https://github.com/IvanBrunevskiy"
+      }
+    ],
+    "assignment": {
+      "id": 533251,
+      "public_repo": true,
+      "title": "ДЗ урок 14 - sync package ",
+      "type": "individual",
+      "invite_link": "https://classroom.github.com/a/7jRmfQQL",
+      "invitations_enabled": true,
+      "slug": "14-sync-package",
+      "students_are_repo_admins": true,
+      "feedback_pull_requests_enabled": true,
+      "max_teams": null,
+      "max_members": null,
+      "editor": null,
+      "accepted": 8,
+      "submissions": 0,
+      "passing": 0,
+      "language": null,
+      "deadline": null,
+      "classroom": {
+        "id": 194072,
+        "name": "Egor-Golang-TSM-Course-classroom-1",
+        "archived": false,
+        "url": "https://classroom.github.com/classrooms/149122461-egor-golang-tsm-course-classroom-1"
+      }
+    },
+    "repository": {
+      "id": 732937570,
+      "full_name": "Egor-Golang-TSM-Course/14-sync-package-IvanBrunevskiy",
+      "html_url": "https://github.com/Egor-Golang-TSM-Course/14-sync-package-IvanBrunevskiy",
+      "node_id": "R_kgDOK6-9Yg",
+      "private": false,
+      "default_branch": "main"
+    }
+  },
+  {
+    "id": 13273218,
+    "submitted": false,
+    "passing": false,
+    "commit_count": 0,
+    "grade": null,
+    "students": [
+      {
+        "id": 2158467,
+        "login": "Anbu42",
+        "name": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/18647322?v=4",
+        "html_url": "https://github.com/Anbu42"
+      }
+    ],
+    "assignment": {
+      "id": 533251,
+      "public_repo": true,
+      "title": "ДЗ урок 14 - sync package ",
+      "type": "individual",
+      "invite_link": "https://classroom.github.com/a/7jRmfQQL",
+      "invitations_enabled": true,
+      "slug": "14-sync-package",
+      "students_are_repo_admins": true,
+      "feedback_pull_requests_enabled": true,
+      "max_teams": null,
+      "max_members": null,
+      "editor": null,
+      "accepted": 8,
+      "submissions": 0,
+      "passing": 0,
+      "language": null,
+      "deadline": null,
+      "classroom": {
+        "id": 194072,
+        "name": "Egor-Golang-TSM-Course-classroom-1",
+        "archived": false,
+        "url": "https://classroom.github.com/classrooms/149122461-egor-golang-tsm-course-classroom-1"
+      }
+    },
+    "repository": {
+      "id": 733998686,
+      "full_name": "Egor-Golang-TSM-Course/14-sync-package-Anbu42",
+      "html_url": "https://github.com/Egor-Golang-TSM-Course/14-sync-package-Anbu42",
+      "node_id": "R_kgDOK7_uXg",
+      "private": false,
+      "default_branch": "main"
+    }
+  },
+  {
+    "id": 13290149,
+    "submitted": false,
+    "passing": false,
+    "commit_count": 0,
+    "grade": null,
+    "students": [
+      {
+        "id": 2206501,
+        "login": "emiloserdov93",
+        "name": null,
+        "avatar_url": "https://avatars.githubusercontent.com/u/154622423?v=4",
+        "html_url": "https://github.com/emiloserdov93"
+      }
+    ],
+    "assignment": {
+      "id": 533251,
+      "public_repo": true,
+      "title": "ДЗ урок 14 - sync package ",
+      "type": "individual",
+      "invite_link": "https://classroom.github.com/a/7jRmfQQL",
+      "invitations_enabled": true,
+      "slug": "14-sync-package",
+      "students_are_repo_admins": true,
+      "feedback_pull_requests_enabled": true,
+      "max_teams": null,
+      "max_members": null,
+      "editor": null,
+      "accepted": 8,
+      "submissions": 0,
+      "passing": 0,
+      "language": null,
+      "deadline": null,
+      "classroom": {
+        "id": 194072,
+        "name": "Egor-Golang-TSM-Course-classroom-1",
+        "archived": false,
+        "url": "https://classroom.github.com/classrooms/149122461-egor-golang-tsm-course-classroom-1"
+      }
+    },
+    "repository": {
+      "id": 735985196,
+      "full_name": "Egor-Golang-TSM-Course/14-sync-package-emiloserdov93",
+      "html_url": "https://github.com/Egor-Golang-TSM-Course/14-sync-package-emiloserdov93",
+      "node_id": "R_kgDOK94-LA",
+      "private": false,
+      "default_branch": "main"
+    }
+  }
+]
