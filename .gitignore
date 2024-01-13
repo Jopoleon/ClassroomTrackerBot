@@ -3,4 +3,5 @@
 /vendor
 /.idea
 .idea
-config.yaml
+/config/config.yml
+MakeFile
