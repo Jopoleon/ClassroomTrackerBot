@@ -3,11 +3,12 @@ package github_classroom
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/k0kubun/pp/v3"
 	"io"
 	"io/fs"
 	"net/http"
 	"os"
+
+	"github.com/k0kubun/pp/v3"
 )
 
 func (c *ClassroomClient) makeRequest(endpoint string, method string) ([]byte, error) {
@@ -30,7 +31,6 @@ func (c *ClassroomClient) makeRequest(endpoint string, method string) ([]byte, e
 		return nil, fmt.Errorf("API request error: %s", resp.Status)
 	}
 	return io.ReadAll(resp.Body)
-
 }
 
 //	curl -L \
